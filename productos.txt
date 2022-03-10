@@ -1,0 +1,26 @@
+[
+  {
+    "objeto": {
+      "title": "Pelota",
+      "price": 10,
+      "thumbnail": "pelota.jpg"
+    },
+    "id": 1
+  },
+  {
+    "objeto": {
+      "title": "Camiseta",
+      "price": 50,
+      "thumbnail": "camiseta.jpg"
+    },
+    "id": 2
+  },
+  {
+    "objeto": {
+      "title": "Palo de golf",
+      "price": 190,
+      "thumbnail": "paloGolf.jpg"
+    },
+    "id": 3
+  }
+]
